@@ -1,3 +1,7 @@
+# THIS FILE WAS USED TO CREATE THE YOUTUBE VIDEO "teaching my friends how to code" (https://www.youtube.com/watch?v=VsGDYgBrgF8)
+
+
+
 #printing statements
 print("hello world")
 print(1+1)
